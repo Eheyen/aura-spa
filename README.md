@@ -2,6 +2,21 @@
 
 Prototipo interactivo en español para un spa, con colores rosados pastel.
 
+- **Web:** https://eheyen.github.io/aura-spa/
+- **Código:** https://github.com/Eheyen/aura-spa
+
+GitHub Pages publica la carpeta `docs/` de la rama `main`. Los cambios enviados a esa rama actualizan la web después de que finalice la publicación.
+
+## Abrir en Visual Studio Code
+
+Abrir esta carpeta desde **Archivo → Abrir carpeta**, o clonar el repositorio:
+
+```sh
+git clone https://github.com/Eheyen/aura-spa.git
+cd aura-spa
+code .
+```
+
 ## Incluye
 
 - Página de clientes con tratamientos, galería y reserva de prueba.
