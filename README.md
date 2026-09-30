@@ -19,7 +19,7 @@ code .
 
 ## Incluye
 
-- Página de clientes con tratamientos, galería y solicitud de cita por WhatsApp al +51 941 914 947.
+- Página de clientes con tratamientos, galería y solicitud de cita por WhatsApp al +51 914 889 367.
 - Login de demostración para administración.
 - Agenda, registro de clientes, historial y frecuencia de visitas.
 - Diseño adaptable a celular y escritorio.
@@ -62,5 +62,5 @@ Revisar las condiciones de cada fuente antes de reutilizar sus fotografías.
 
 ## Datos del negocio
 
-Nombre, servicios y zona tomados de la biografía pública de https://www.instagram.com/clawsstudio2026/: Claws Studio; manicure, pedicure, diseño de cejas y lash lifting; Chorrillos, Lima, Perú. Dirección exacta y precios pendientes de confirmación. WhatsApp proporcionado por el propietario del proyecto: +51 941 914 947.
+Nombre, servicios y zona tomados de la biografía pública de https://www.instagram.com/clawsstudio2026/: Claws Studio; manicure, pedicure, diseño de cejas y lash lifting; Chorrillos, Lima, Perú. Referencia: frente al Real Plaza de Av. Guardia Civil, Chorrillos. Mapa verificado: https://maps.app.goo.gl/yHJDQrnFAMLaTJYN8. Precios publicados de preventa: soft gel S/ 55, rubber gel S/ 49, esmaltado gel S/ 29, laminado de cejas S/ 39; vigencia pendiente de confirmación. WhatsApp corregido según las capturas del perfil y publicación del negocio: +51 914 889 367.
 
