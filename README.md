@@ -1,4 +1,4 @@
-# Aura Spa
+# Claws Studio
 
 Prototipo interactivo en español para un spa, con colores rosados pastel.
 
@@ -58,4 +58,9 @@ Las imágenes no representan trabajos reales de Aura Spa. Fuentes:
 - [ikhbale — Unsplash](https://unsplash.com/photos/a-spa-room-with-a-spa-bed-and-a-shower-lyicBM-7zFA)
 
 Revisar las condiciones de cada fuente antes de reutilizar sus fotografías.
+
+
+## Datos del negocio
+
+Nombre, servicios y zona tomados de la biografía pública de https://www.instagram.com/clawsstudio2026/: Claws Studio; manicure, pedicure, diseño de cejas y lash lifting; Chorrillos, Lima, Perú. Dirección exacta y precios pendientes de confirmación. WhatsApp proporcionado por el propietario del proyecto: +51 941 914 947.
 
