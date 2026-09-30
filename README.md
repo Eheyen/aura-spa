@@ -19,7 +19,7 @@ code .
 
 ## Incluye
 
-- Página de clientes con tratamientos, galería y reserva de prueba.
+- Página de clientes con tratamientos, galería y solicitud de cita por WhatsApp al +51 941 914 947.
 - Login de demostración para administración.
 - Agenda, registro de clientes, historial y frecuencia de visitas.
 - Diseño adaptable a celular y escritorio.
@@ -39,7 +39,9 @@ Abrir http://127.0.0.1:4173.
 - Correo: `admin@auraspa.demo`
 - Contraseña: `AuraDemo2026`
 
-Estas credenciales son públicas y solo simulan el flujo de acceso. No existe autenticación de servidor. Todos los datos son ficticios, están en el navegador y se reinician al recargar. No utilizar este prototipo para almacenar datos personales ni recibir reservas reales.
+Estas credenciales son públicas y solo simulan el flujo de acceso. No existe autenticación de servidor. Los datos de administración son ficticios, están en el navegador y se reinician al recargar. No utilizar la maqueta de administración para almacenar datos personales.
+
+La reserva pública abre WhatsApp con un mensaje preparado que incluye nombre, tratamiento, fecha y hora de preferencia y teléfono de contacto. El cliente debe enviar el mensaje; el spa confirma disponibilidad y precio por el chat. La web no envía mensajes automáticamente, no confirma citas y no guarda solicitudes en la agenda de maqueta.
 
 ## Archivos
 
